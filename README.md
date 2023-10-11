@@ -1,3 +1,21 @@
+# FilmZee-Frontend
+
+🎬 Introduction
+FilmZee est une application de cinéma immersive qui permet aux utilisateurs de parcourir et de visualiser les affiches de films, de regarder leurs bandes-annonces et de les commenter. Cette partie couvre le frontend de l'application, construit avec React.
+
+<img width="915" alt="Capture d'écran 2023-10-11 124154" src="https://github.com/Benaxo/FilmZee-front/assets/79756073/a5f9e220-0438-464a-8a3e-f112769c4bcc">
+
+
+🔧 Technologies utilisées
+React : Bibliothèque JavaScript utilisée pour construire l'interface utilisateur.
+React Router : Gestion de la navigation dans l'application.
+Axios : Bibliothèque utilisée pour les requêtes HTTP vers l'API backend.
+Autres librairies et outils utilisés (ex: Redux pour la gestion de l'état, Styled Components pour le style, etc.).
+🚀 Fonctionnalités
+Parcourir les films : Les utilisateurs peuvent parcourir une galerie de films, sélectionner un film et voir ses détails.
+Visualiser les bandes-annonces : Un lecteur intégré permet aux utilisateurs de regarder les bandes-annonces des films.
+Section de commentaires : Sous chaque film, il y a une section où les utilisateurs peuvent lire et publier des commentaires.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
